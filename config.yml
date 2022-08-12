@@ -77,11 +77,11 @@ params:
   homeInfoParams:
     Title: "Eton \U0001F4D2"
     Content: >
-          Welcome to **Eton**.
+          - 👋 Welcome to **Eton**.
 
-          - Where i store all my mind.
+          - ✏ Where i store all my mind.
 
-          - About history, myth, and other thing that i love.
+          - 🔍 About history, myth, and other thing that i love.
 
   socialIcons:
     - name: github
