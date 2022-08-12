@@ -1,6 +1,6 @@
-baseURL: "https://bayunashr.github.io/eton"
+baseURL: "localhost"
 title: Eton
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -19,7 +19,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Eton
-  description: "a place to write"
+  description: "My digital note to write about history and myth"
   keywords: [Blog, History, Myth]
   author: Bayu Nashrullah
   # author: ["Me", "You"] # multiple authors
@@ -61,8 +61,8 @@ params:
   # profile-mode
   profileMode:
     enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
+    title: "Eton \U0001F4D2"
+    subtitle: "A place that i use to store all my writings about history, myth, and so on."
     imageUrl: "<img location>"
     imageWidth: 120
     imageHeight: 120
@@ -75,16 +75,21 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "Eton \U0001F4D2"
+    Content: >
+          Welcome to **Eton**.
 
-  # socialIcons:
-  #  - name: twitter
-  #    url: "https://twitter.com/"
-  #  - name: stackoverflow
-  #    url: "https://stackoverflow.com"
-  #  - name: github
-  #    url: "https://github.com/"
+          - Where i store all my mind.
+
+          - About history, myth, and other thing that i love.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/bayunashr"
+    - name: facebook
+      url: "https://facebook.com/bayu.7"
+    - name: reddit
+      url: "https://reddit.com/bayunashr"
 
   #analytics:
   #  google:
@@ -114,6 +119,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
+
 menu:
   main:
     - identifier: archives
@@ -124,9 +130,9 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: search
+      name: "Search"
+      url: /search/
       weight: 30
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
@@ -139,3 +145,9 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
