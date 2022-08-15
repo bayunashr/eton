@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost/</loc>
+    <loc>https://bayunashr.github.io/eton/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>localhost/posts/first/</loc>
+    <loc>https://bayunashr.github.io/eton/posts/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>localhost/tags/first/</loc>
+    <loc>https://bayunashr.github.io/eton/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>localhost/posts/</loc>
+    <loc>https://bayunashr.github.io/eton/posts/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>localhost/tags/</loc>
+    <loc>https://bayunashr.github.io/eton/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>localhost/archives/</loc>
+    <loc>https://bayunashr.github.io/eton/archives/</loc>
   </url><url>
-    <loc>localhost/categories/</loc>
+    <loc>https://bayunashr.github.io/eton/categories/</loc>
   </url><url>
-    <loc>localhost/search/</loc>
+    <loc>https://bayunashr.github.io/eton/search/</loc>
   </url>
 </urlset>
