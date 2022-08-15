@@ -75,13 +75,13 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Eton \U0001F4D2"
+    Title: This is "Eton"
     Content: >
-          - 👋 Welcome to **Eton**.
+          - Welcome to **Eton**.
 
-          - ✏ Where i store all my mind.
+          - Where i store all my mind.
 
-          - 🔍 About history, myth, and other thing that i love.
+          - About history, myth, and other thing that i love.
 
   socialIcons:
     - name: github
@@ -105,7 +105,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/bayunashr/eton/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
