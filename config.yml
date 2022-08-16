@@ -1,7 +1,8 @@
-baseURL: "https://bayunashr.github.io/eton"
+baseURL: "localhost"
 title: Eton
 paginate: 10
 theme: PaperMod
+defaultContentLanguage: id
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -19,13 +20,13 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Eton
-  description: "My digital note to write about history and myth"
-  keywords: [Blog, History, Myth]
+  description: "Karena membaca itu menyenangkan"
+  keywords: [Blog, Sejarah, Mitologi]
   author: Bayu Nashrullah
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -54,42 +55,27 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Beranda"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: "Eton \U0001F4D2"
-    subtitle: "A place that i use to store all my writings about history, myth, and so on."
-    imageUrl: "<img location>"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
-
   # home-info mode
   homeInfoParams:
-    Title: This is "Eton"
+    Title: Selamat Datang di "Eton"
     Content: >
-          - Welcome to **Eton**.
+          - Tempat dimana saya mengumpulkan semua hal yang saya ketahui.
 
-          - Where i store all my mind.
+          - Terutama yang ada hubungannya dengan **sejarah**.
 
-          - About history, myth, and other thing that i love.
+          - Kalian juga bisa baca-baca lho.
+
+          - Selamat membaca :'D.
 
   socialIcons:
     - name: github
       url: "https://github.com/bayunashr"
     - name: facebook
-      url: "https://facebook.com/bayu.7"
-    - name: reddit
-      url: "https://reddit.com/bayunashr"
+      url: "https://facebook.com/bayu.nashrullah.7"
 
   #analytics:
   #  google:
@@ -123,15 +109,15 @@ params:
 menu:
   main:
     - identifier: archives
-      name: Archives
+      name: Arsip
       url: /archives/
       weight: 10
     - identifier: tags
-      name: Tags
+      name: Tag
       url: /tags/
       weight: 20
     - identifier: search
-      name: "Search"
+      name: "Cari"
       url: /search/
       weight: 30
 

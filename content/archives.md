@@ -1,5 +1,5 @@
 ---
-title: "Archives"
+title: "Arsip"
 layout: "archives"
 url: "/archives/"
 summary: archives
