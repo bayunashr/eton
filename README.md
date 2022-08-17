@@ -4,7 +4,7 @@
     </a>
     <br>
     <a href="https://bayunashr.github.io/eton/" target="_blank">
-        <img src="https://img.shields.io/badge/Eton-black?style=for-the-badge" alt="Badge Eton" />
+        <img src="https://img.shields.io/badge/Eton-red?style=for-the-badge" alt="Badge Eton" />
     </a>
 </h1>
 
