@@ -4,7 +4,7 @@ date: {{ .Date }}
 # weight: 1
 tags: ["tag", "tag2"]
 draft: false
-description: "Desc Text."
+summary: Summary text
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text

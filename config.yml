@@ -1,4 +1,4 @@
-baseURL: "localhost"
+baseURL: "https://bayunashr.github.io/eton/"
 title: Eton
 paginate: 10
 theme: PaperMod
@@ -41,11 +41,11 @@ params:
   comments: false
   hidemeta: false
   hideSummary: false
-  showtoc: true
+  showtoc: false
   tocopen: false
 
   assets:
-    # disableHLJS: true # to disable highlight.js
+    disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
     favicon: "https://raw.githubusercontent.com/bayunashr/eton/main/assets/favicon/favicon.ico"
     favicon16x16: "https://raw.githubusercontent.com/bayunashr/eton/main/assets/favicon/favicon-16x16.png"
