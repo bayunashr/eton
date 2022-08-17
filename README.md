@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo Eton" src="https://raw.githubusercontent.com/bayunashr/eton/main/assets/favicon/apple-icon-180x180.png" width="120px"/><br/>
+  <img alt="Logo Eton" src="https://raw.githubusercontent.com/bayunashr/eton/main/assets/favicon/apple-icon-180x180.png" width="100px"/><br/>
   Eton.
 </h1>
 
