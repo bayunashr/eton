@@ -21,10 +21,10 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Eton
   description: "Karena membaca itu menyenangkan"
-  keywords: [Blog, Sejarah, Mitologi]
+  keywords: [Blog, Sejarah, Mitologi, Misteri]
   author: Bayu Nashrullah
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "2 January 2006"
   defaultTheme: dark # dark, light
   disableThemeToggle: false
 
@@ -64,7 +64,7 @@ params:
     Content: >
           - Tempat dimana saya mengumpulkan semua hal yang saya ketahui.
 
-          - Terutama yang ada hubungannya dengan **sejarah**.
+          - Mulai dari hal yang jelas sampai yang tidak begitu jelas.
 
           - Kalian juga bisa baca-baca lho.
 
