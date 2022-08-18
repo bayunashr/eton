@@ -1,11 +1,11 @@
-baseURL: "https://bayunashr.github.io/eton/"
+baseURL: "localhost"
 title: Eton
 paginate: 10
 theme: PaperMod
 defaultContentLanguage: id
 
 enableRobotsTXT: true
-buildDrafts: false
+buildDrafts: true
 buildFuture: false
 buildExpired: false
 
