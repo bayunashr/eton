@@ -79,6 +79,8 @@ params:
       url: "https://instagram.com/bayunashr"
     - name: spotify
       url: "https://open.spotify.com/user/313fsvmk7p5d57uhkyi735tbegbe?si=96ba31e8fab5471c"
+    - name: saweria
+      url: "https://saweria.co/bayunashr"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -86,7 +88,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/bayunashr/eton/content"
+    URL: "https://github.com/bayunashr/eton/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
