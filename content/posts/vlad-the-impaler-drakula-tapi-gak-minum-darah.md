@@ -1,10 +1,10 @@
 ---
-title: "Vlad the Impaler Drakula Tapi Gak Minum Darah"
+title: "Vlad the Impaler, Drakula Tapi Gak Minum Darah"
 date: 2022-08-18T16:11:25+07:00
 # weight: 1
-tags: ["tag", "tag2"]
+tags: ["Sejarah", "Abad Pertengahan"]
 draft: true
-summary: "Summary text."
+summary: "Drakula yang sebenarnya, beda penggambaran dengan yang di film-film, tapi sifatnya sama."
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
