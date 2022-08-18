@@ -15,7 +15,7 @@ cover:
 
 ### Prolog
 
-Letnan **John Reginald Gorman** lahir pada tanggal 1 Februari tahun 1923 di Omagh, Irlandia Utara, Britania Raya. Beliau adalah anggota dari *Irish Guards* yang bergabung pada 5 Desember 1942, dimana saat itu adalah masa panas-panasnya perang dunia ke-2, *Irish Guards* adalah sebuah kesatuan bagian dari angkatan darat Inggris.
+Letnan **John Reginald Gorman** lahir pada tanggal 1 Februari tahun 1923 di Omagh, Irlandia Utara, Britania Raya. Beliau adalah anggota dari *Irish Guards* yang bergabung pada 5 Desember 1942, dimana saat itu adalah masa panas-panasnya perang dunia ke-2, *Irish Guards* sendiri adalah resimen lapis baja angkatan darat Inggris.
 
 Gorman ditempatkan pada Resimen Batalion Lapis Baja ke-2 yang merupakan bagian dari Brigade Pengawal Lapis Baja ke-5 yang tergabung dalam Divisi Pengawal Lapis Baja yang dipimpin oleh Mayor Jendral Allan Henry Shafto Adair.
 
