@@ -4,7 +4,7 @@ date: 2022-08-17T14:25:29+07:00
 # weight: 1
 tags: ["Sejarah", "Perang Dunia II"]
 draft: true
-summary: "Letnan John Reginald Gorman, salah satu veteran perang dunia ke-2 yang disorot karena aksi kamikazenya melawan Königstiger."
+summary: "Orang mana yang kepikiran untuk mengalahkan Königstiger dengan cara ditabrak? Yap, John Gorman memikirkannya."
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
