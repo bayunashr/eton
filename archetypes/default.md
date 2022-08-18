@@ -3,8 +3,8 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 # weight: 1
 tags: ["tag", "tag2"]
-draft: false
-summary: Summary text
+draft: true
+summary: "Summary text."
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
