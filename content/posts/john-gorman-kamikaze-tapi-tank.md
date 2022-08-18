@@ -5,12 +5,6 @@ date: 2022-08-17T14:25:29+07:00
 tags: ["Sejarah", "Perang Dunia II"]
 draft: true
 summary: "Orang mana yang kepikiran untuk mengalahkan Königstiger dengan cara ditabrak? Yap, John Gorman memikirkannya."
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
 ---
 
 ### Prolog
