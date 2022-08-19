@@ -33,6 +33,12 @@ Divisi Pengawal Lapis Baja (Guards Armoured Division)
 
 Pada akhir Juni 1944, Divisi Pengawal Lapis Baja (*Guards Armoured Division*) mendarat di Normandy (nama daerah di Prancis) sebagai bagian dari Operasi *Overlord* beberapa minggu setelah pendaratan ikonik *D-Day*.
 
-Pada 18 Juli 1944, dalam Operasi *Goodwood*, Gorman memimpin satu grup angkatan lapis baja M4 Sherman menuju ke timur dari Cagny (wilayah yang ada di Normandy), disana Gorman melihat 4 tank Jerman yang salah satu dari tank-tank itu adalah tank momok Königstiger atau sekutu memanggilnya King Tiger atau Tiger III, sebuah hantu baja bagi sekutu. Gorman tahu bahwa *Ballyragget*-nya (nama M4 Sherman Gorman) tak akan mampu menghadapi *The Mighty* Tiger itu.
+Pada 18 Juli 1944, dalam Operasi *Goodwood*, Gorman memimpin satu grup angkatan lapis baja M4 Sherman menuju ke timur dari Cagny (wilayah yang ada di Normandy), disana Gorman melihat 4 tank Jerman yang salah satu dari tank-tank itu adalah tank momok *Königstiger* atau sekutu memanggilnya King Tiger atau Tiger III, sebuah hantu baja bagi sekutu. Gorman tahu bahwa *Ballyragget*-nya (nama M4 Sherman Gorman) tak akan mampu menghadapi *The Mighty* Tiger itu.
 
-Gorman bilang ke kru tank-nya "Satu-satunya yang dapat kita lakukan adalah menggunakan taktik dari angkatan laut, jika meriam 88mm itu tidak mengarah ke kita, kita dapat menggunakan kecepatan Sherman untuk menabraknya!" Jika bicara kecepatan, Gorman juga diuntungkan karena posisi tank-nya berada di atas bukit.
+Setelah beberapa saat, Gorman berkata ke kru tank-nya "Satu-satunya yang dapat kita lakukan adalah menggunakan taktik dari angkatan laut, jika meriam 88mm itu tidak mengarah ke kita, kita dapat menggunakan kecepatan Sherman untuk menabraknya!" Gorman menegaskan bahwa satu-satunya cara untuk menghadapi si *Königstiger* itu adalah dengan salah satu taktik dari angkatan laut, yaitu *kamikaze* (serangan bunuh diri oleh awak pesawat Jepang dengan cara menghantamkan pesawatnya ke kapal-kapal sekutu). Gorman juga meyakinkan kru tank-nya, bahwa selama armamen *Königstiger* belum mengarah ke *Ballyragget*, maka *Ballyragget* akan dapat menumbangkannya dengan kecepatannya.
+
+### Kamikaze
+
+Tanpa pikir panjang, *driver Ballyragget* langsung maju dan siap untuk menghantam *Königstiger*, pada saat itu Gorman juga diuntungkan karena medan dari *Ballyragget* ke *Königstiger* merupakan turunan bukit, sehingga *Ballyragget* dapat berakselerasi dengan cepat.
+
+Pada detik-detik serangan *kamikaze* itu, *gunner Ballyragget* sempat menembakkan satu tembakan yang mengarah ke *Königstiger*.
