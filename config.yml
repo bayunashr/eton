@@ -1,6 +1,6 @@
 baseURL: "https://bayunashr.github.io/eton/"
 title: Eton
-paginate: 10
+paginate: 5
 theme: PaperMod
 defaultContentLanguage: id
 
@@ -20,7 +20,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Eton
-  description: "Karena membaca itu menyenangkan"
+  description: "Tempat orang-orang gabut baca hal gabut"
   keywords: [Blog, Sejarah, Mitologi, Misteri]
   author: Bayu Nashrullah
   images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -62,13 +62,13 @@ params:
   homeInfoParams:
     Title: Selamat Datang di "Eton"
     Content: >
-          - Tempat dimana saya mengumpulkan semua hal yang saya ketahui.
+          - Blog ecek-ecek untuk saya nulis.
 
-          - Mulai dari hal yang jelas sampai yang tidak begitu jelas.
+          - Yang baca gabut.
 
-          - Kalian juga bisa baca-baca lho.
+          - Yang nulis juga gabut.
 
-          - Selamat membaca :'D.
+          - Selamat menggabut.
 
   socialIcons:
     - name: github
