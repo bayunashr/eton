@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost/</loc>
+    <loc>https://bayunashr.github.io/eton/</loc>
     <lastmod>2022-08-17T14:25:29+07:00</lastmod>
   </url><url>
-    <loc>localhost/posts/john-gorman-kamikaze-tapi-tank/</loc>
+    <loc>https://bayunashr.github.io/eton/posts/john-gorman-kamikaze-tapi-tank/</loc>
     <lastmod>2022-08-17T14:25:29+07:00</lastmod>
   </url><url>
-    <loc>localhost/tags/perang-dunia-ii/</loc>
+    <loc>https://bayunashr.github.io/eton/tags/perang-dunia-ii/</loc>
     <lastmod>2022-08-17T14:25:29+07:00</lastmod>
   </url><url>
-    <loc>localhost/posts/</loc>
+    <loc>https://bayunashr.github.io/eton/posts/</loc>
     <lastmod>2022-08-17T14:25:29+07:00</lastmod>
   </url><url>
-    <loc>localhost/tags/sejarah/</loc>
+    <loc>https://bayunashr.github.io/eton/tags/sejarah/</loc>
     <lastmod>2022-08-17T14:25:29+07:00</lastmod>
   </url><url>
-    <loc>localhost/tags/</loc>
+    <loc>https://bayunashr.github.io/eton/tags/</loc>
     <lastmod>2022-08-17T14:25:29+07:00</lastmod>
   </url><url>
-    <loc>localhost/archives/</loc>
+    <loc>https://bayunashr.github.io/eton/archives/</loc>
   </url><url>
-    <loc>localhost/search/</loc>
+    <loc>https://bayunashr.github.io/eton/search/</loc>
   </url><url>
-    <loc>localhost/categories/</loc>
+    <loc>https://bayunashr.github.io/eton/categories/</loc>
   </url>
 </urlset>
