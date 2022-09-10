@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Eton</title>
-    <link>https://bayunashr.github.io/eton/</link>
-    <description>Recent content on Eton</description>
+    <title>Komputer on Eton</title>
+    <link>https://bayunashr.github.io/eton/tags/komputer/</link>
+    <description>Recent content in Komputer on Eton</description>
     <image>
       <url>https://bayunashr.github.io/eton/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://bayunashr.github.io/eton/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 10 Sep 2022 13:43:32 +0700</lastBuildDate><atom:link href="https://bayunashr.github.io/eton/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 10 Sep 2022 13:43:32 +0700</lastBuildDate><atom:link href="https://bayunashr.github.io/eton/tags/komputer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implementasi File-System Pada Sistem Operasi</title>
       <link>https://bayunashr.github.io/eton/posts/implementasi-file-system-pada-sistem-operasi/</link>
@@ -18,17 +18,6 @@
       <guid>https://bayunashr.github.io/eton/posts/implementasi-file-system-pada-sistem-operasi/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor lacus eu faucibus ullamcorper. Aenean nec gravida tellus. Aliquam interdum sem enim, placerat viverra ipsum dignissim sed.</description>
     </item>
-    
-    <item>
-      <title>John Gorman, Kamikaze Tapi Tank</title>
-      <link>https://bayunashr.github.io/eton/posts/john-gorman-kamikaze-tapi-tank/</link>
-      <pubDate>Wed, 17 Aug 2022 14:25:29 +0700</pubDate>
-      
-      <guid>https://bayunashr.github.io/eton/posts/john-gorman-kamikaze-tapi-tank/</guid>
-      <description>Orang mana yang kepikiran untuk mengalahkan Königstiger dengan cara ditabrak? Yap, John Gorman memikirkannya.</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
