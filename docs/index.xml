@@ -9,7 +9,16 @@
       <link>https://bayunashr.github.io/eton/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 10 Sep 2022 13:43:32 +0700</lastBuildDate><atom:link href="https://bayunashr.github.io/eton/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Sep 2022 12:26:08 +0700</lastBuildDate><atom:link href="https://bayunashr.github.io/eton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Struktur Data Stack</title>
+      <link>https://bayunashr.github.io/eton/posts/struktur-data-stack/</link>
+      <pubDate>Sun, 11 Sep 2022 12:26:08 +0700</pubDate>
+      
+      <guid>https://bayunashr.github.io/eton/posts/struktur-data-stack/</guid>
+      <description>Stack, salah satu jenis struktur data dengan konsep LIFO (last in first out).</description>
+    </item>
+    
     <item>
       <title>Implementasi File-System Pada Sistem Operasi</title>
       <link>https://bayunashr.github.io/eton/posts/implementasi-file-system-pada-sistem-operasi/</link>
