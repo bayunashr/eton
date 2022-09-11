@@ -4,8 +4,6 @@ date: 2022-09-10T13:43:32+07:00
 # weight: 1
 tags: ["Sistem Operasi", "Komputer"]
 draft: true
-showtoc: true
-tocopen: true
 summary: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor lacus eu faucibus ullamcorper. Aenean nec gravida tellus. Aliquam interdum sem enim, placerat viverra ipsum dignissim sed."
 ---
 
