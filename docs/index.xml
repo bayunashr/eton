@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eton</title>
     <link>https://bayunashr.github.io/eton/</link>
     <description>Recent content on Eton</description>
-    <image>
-      <url>https://bayunashr.github.io/eton/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://bayunashr.github.io/eton/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 11 Sep 2022 12:26:08 +0700</lastBuildDate><atom:link href="https://bayunashr.github.io/eton/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 18:51:36 +0700</lastBuildDate><atom:link href="https://bayunashr.github.io/eton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sebagai Warga Negara Indonesia Wajib Hukumnya Bela Negara</title>
+      <link>https://bayunashr.github.io/eton/posts/sebagai-warga-negara-indonesia-wajib-hukumnya-bela-negara/</link>
+      <pubDate>Sun, 18 Dec 2022 18:51:36 +0700</pubDate>
+      
+      <guid>https://bayunashr.github.io/eton/posts/sebagai-warga-negara-indonesia-wajib-hukumnya-bela-negara/</guid>
+      <description>Bela negara merupakan sebuah fundamental yang harus dipegang teguh oleh seluruh penghuni negara.</description>
+    </item>
+    
     <item>
       <title>Struktur Data Stack</title>
       <link>https://bayunashr.github.io/eton/posts/struktur-data-stack/</link>
@@ -37,7 +42,23 @@
       <description>Orang mana yang kepikiran untuk mengalahkan Königstiger dengan cara ditabrak? Yap, John Gorman memikirkannya.</description>
     </item>
     
+    <item>
+      <title>Arsip</title>
+      <link>https://bayunashr.github.io/eton/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayunashr.github.io/eton/archives/</guid>
+      <description>archives</description>
+    </item>
     
+    <item>
+      <title>Cari</title>
+      <link>https://bayunashr.github.io/eton/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bayunashr.github.io/eton/search/</guid>
+      <description>search</description>
+    </item>
     
   </channel>
 </rss>

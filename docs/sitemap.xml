@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bayunashr.github.io/eton/</loc>
-    <lastmod>2022-09-11T12:26:08+07:00</lastmod>
+    <loc>https://bayunashr.github.io/eton/tags/bela-negara/</loc>
+    <lastmod>2022-12-18T18:51:36+07:00</lastmod>
   </url><url>
-    <loc>https://bayunashr.github.io/eton/tags/komputer/</loc>
-    <lastmod>2022-09-11T12:26:08+07:00</lastmod>
+    <loc>https://bayunashr.github.io/eton/</loc>
+    <lastmod>2022-12-18T18:51:36+07:00</lastmod>
+  </url><url>
+    <loc>https://bayunashr.github.io/eton/tags/indonesia/</loc>
+    <lastmod>2022-12-18T18:51:36+07:00</lastmod>
   </url><url>
     <loc>https://bayunashr.github.io/eton/posts/</loc>
+    <lastmod>2022-12-18T18:51:36+07:00</lastmod>
+  </url><url>
+    <loc>https://bayunashr.github.io/eton/posts/sebagai-warga-negara-indonesia-wajib-hukumnya-bela-negara/</loc>
+    <lastmod>2022-12-18T18:51:36+07:00</lastmod>
+  </url><url>
+    <loc>https://bayunashr.github.io/eton/tags/</loc>
+    <lastmod>2022-12-18T18:51:36+07:00</lastmod>
+  </url><url>
+    <loc>https://bayunashr.github.io/eton/tags/komputer/</loc>
     <lastmod>2022-09-11T12:26:08+07:00</lastmod>
   </url><url>
     <loc>https://bayunashr.github.io/eton/tags/struktur-data/</loc>
     <lastmod>2022-09-11T12:26:08+07:00</lastmod>
   </url><url>
     <loc>https://bayunashr.github.io/eton/posts/struktur-data-stack/</loc>
-    <lastmod>2022-09-11T12:26:08+07:00</lastmod>
-  </url><url>
-    <loc>https://bayunashr.github.io/eton/tags/</loc>
     <lastmod>2022-09-11T12:26:08+07:00</lastmod>
   </url><url>
     <loc>https://bayunashr.github.io/eton/posts/implementasi-file-system-pada-sistem-operasi/</loc>
