@@ -4,7 +4,7 @@ date: 2022-12-18T18:51:36+07:00
 # weight: 1
 tags: ["Bela Negara", "Indonesia"]
 draft: false
-summary: "Bela negara merupakan sebuah fundamental yang harus dipegang teguh oleh seluruh penghuni negara."
+summary: "Bela negara merupakan sebuah fundamental utama yang harus dipegang teguh oleh seluruh penghuni negara."
 ---
 
 ## Prolog
