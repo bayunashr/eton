@@ -1,4 +1,4 @@
-baseURL: "https://bayunashr.github.io/eton/"
+baseURL: "localhost"
 title: Eton
 paginate: 5
 theme: PaperMod

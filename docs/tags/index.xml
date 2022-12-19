@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Eton</title>
-    <link>https://bayunashr.github.io/eton/tags/</link>
+    <link>localhost/tags/</link>
     <description>Recent content in Tags on Eton</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 18 Dec 2022 18:51:36 +0700</lastBuildDate><atom:link href="https://bayunashr.github.io/eton/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 18:51:36 +0700</lastBuildDate><atom:link href="localhost/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bela Negara</title>
-      <link>https://bayunashr.github.io/eton/tags/bela-negara/</link>
+      <link>localhost/tags/bela-negara/</link>
       <pubDate>Sun, 18 Dec 2022 18:51:36 +0700</pubDate>
       
-      <guid>https://bayunashr.github.io/eton/tags/bela-negara/</guid>
+      <guid>localhost/tags/bela-negara/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Indonesia</title>
-      <link>https://bayunashr.github.io/eton/tags/indonesia/</link>
+      <link>localhost/tags/indonesia/</link>
       <pubDate>Sun, 18 Dec 2022 18:51:36 +0700</pubDate>
       
-      <guid>https://bayunashr.github.io/eton/tags/indonesia/</guid>
+      <guid>localhost/tags/indonesia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Komputer</title>
-      <link>https://bayunashr.github.io/eton/tags/komputer/</link>
+      <link>localhost/tags/komputer/</link>
       <pubDate>Sun, 11 Sep 2022 12:26:08 +0700</pubDate>
       
-      <guid>https://bayunashr.github.io/eton/tags/komputer/</guid>
+      <guid>localhost/tags/komputer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Struktur Data</title>
-      <link>https://bayunashr.github.io/eton/tags/struktur-data/</link>
+      <link>localhost/tags/struktur-data/</link>
       <pubDate>Sun, 11 Sep 2022 12:26:08 +0700</pubDate>
       
-      <guid>https://bayunashr.github.io/eton/tags/struktur-data/</guid>
+      <guid>localhost/tags/struktur-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sistem Operasi</title>
-      <link>https://bayunashr.github.io/eton/tags/sistem-operasi/</link>
+      <link>localhost/tags/sistem-operasi/</link>
       <pubDate>Sat, 10 Sep 2022 13:43:32 +0700</pubDate>
       
-      <guid>https://bayunashr.github.io/eton/tags/sistem-operasi/</guid>
+      <guid>localhost/tags/sistem-operasi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perang Dunia II</title>
-      <link>https://bayunashr.github.io/eton/tags/perang-dunia-ii/</link>
+      <link>localhost/tags/perang-dunia-ii/</link>
       <pubDate>Wed, 17 Aug 2022 14:25:29 +0700</pubDate>
       
-      <guid>https://bayunashr.github.io/eton/tags/perang-dunia-ii/</guid>
+      <guid>localhost/tags/perang-dunia-ii/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sejarah</title>
-      <link>https://bayunashr.github.io/eton/tags/sejarah/</link>
+      <link>localhost/tags/sejarah/</link>
       <pubDate>Wed, 17 Aug 2022 14:25:29 +0700</pubDate>
       
-      <guid>https://bayunashr.github.io/eton/tags/sejarah/</guid>
+      <guid>localhost/tags/sejarah/</guid>
       <description></description>
     </item>
     

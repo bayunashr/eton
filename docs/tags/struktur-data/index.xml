@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Struktur Data on Eton</title>
-    <link>https://bayunashr.github.io/eton/tags/struktur-data/</link>
+    <link>localhost/tags/struktur-data/</link>
     <description>Recent content in Struktur Data on Eton</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 11 Sep 2022 12:26:08 +0700</lastBuildDate><atom:link href="https://bayunashr.github.io/eton/tags/struktur-data/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Sep 2022 12:26:08 +0700</lastBuildDate><atom:link href="localhost/tags/struktur-data/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Struktur Data Stack</title>
-      <link>https://bayunashr.github.io/eton/posts/struktur-data-stack/</link>
+      <link>localhost/posts/struktur-data-stack/</link>
       <pubDate>Sun, 11 Sep 2022 12:26:08 +0700</pubDate>
       
-      <guid>https://bayunashr.github.io/eton/posts/struktur-data-stack/</guid>
+      <guid>localhost/posts/struktur-data-stack/</guid>
       <description>Stack, salah satu jenis struktur data dengan konsep LIFO (last in first out).</description>
     </item>
     

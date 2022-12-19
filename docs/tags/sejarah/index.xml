@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sejarah on Eton</title>
-    <link>https://bayunashr.github.io/eton/tags/sejarah/</link>
+    <link>localhost/tags/sejarah/</link>
     <description>Recent content in Sejarah on Eton</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 17 Aug 2022 14:25:29 +0700</lastBuildDate><atom:link href="https://bayunashr.github.io/eton/tags/sejarah/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Aug 2022 14:25:29 +0700</lastBuildDate><atom:link href="localhost/tags/sejarah/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John Gorman, Kamikaze Tapi Tank</title>
-      <link>https://bayunashr.github.io/eton/posts/john-gorman-kamikaze-tapi-tank/</link>
+      <link>localhost/posts/john-gorman-kamikaze-tapi-tank/</link>
       <pubDate>Wed, 17 Aug 2022 14:25:29 +0700</pubDate>
       
-      <guid>https://bayunashr.github.io/eton/posts/john-gorman-kamikaze-tapi-tank/</guid>
+      <guid>localhost/posts/john-gorman-kamikaze-tapi-tank/</guid>
       <description>Orang mana yang kepikiran untuk mengalahkan Königstiger dengan cara ditabrak? Yap, John Gorman memikirkannya.</description>
     </item>
     
