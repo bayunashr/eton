@@ -25,7 +25,7 @@ params:
   author: Bayu Nashrullah
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2 January 2006"
-  defaultTheme: light # dark, light
+  defaultTheme: dark # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: true
