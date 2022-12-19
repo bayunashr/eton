@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://bayunashr.github.io/eton/sitemap.xml

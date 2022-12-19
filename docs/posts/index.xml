@@ -1,44 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Eton</title>
-    <link>localhost/posts/</link>
+    <link>https://bayunashr.github.io/eton/posts/</link>
     <description>Recent content in Posts on Eton</description>
+    <image>
+      <url>https://bayunashr.github.io/eton/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://bayunashr.github.io/eton/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 18 Dec 2022 18:51:36 +0700</lastBuildDate><atom:link href="localhost/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 18:51:36 +0700</lastBuildDate><atom:link href="https://bayunashr.github.io/eton/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sebagai Warga Negara Indonesia Wajib Hukumnya Bela Negara</title>
-      <link>localhost/posts/sebagai-warga-negara-indonesia-wajib-hukumnya-bela-negara/</link>
+      <link>https://bayunashr.github.io/eton/posts/sebagai-warga-negara-indonesia-wajib-hukumnya-bela-negara/</link>
       <pubDate>Sun, 18 Dec 2022 18:51:36 +0700</pubDate>
       
-      <guid>localhost/posts/sebagai-warga-negara-indonesia-wajib-hukumnya-bela-negara/</guid>
+      <guid>https://bayunashr.github.io/eton/posts/sebagai-warga-negara-indonesia-wajib-hukumnya-bela-negara/</guid>
       <description>Bela negara merupakan sebuah fundamental utama yang harus dipegang teguh oleh seluruh penghuni negara.</description>
     </item>
     
     <item>
       <title>Struktur Data Stack</title>
-      <link>localhost/posts/struktur-data-stack/</link>
+      <link>https://bayunashr.github.io/eton/posts/struktur-data-stack/</link>
       <pubDate>Sun, 11 Sep 2022 12:26:08 +0700</pubDate>
       
-      <guid>localhost/posts/struktur-data-stack/</guid>
+      <guid>https://bayunashr.github.io/eton/posts/struktur-data-stack/</guid>
       <description>Stack, salah satu jenis struktur data dengan konsep LIFO (last in first out).</description>
     </item>
     
     <item>
       <title>Implementasi File-System Pada Sistem Operasi</title>
-      <link>localhost/posts/implementasi-file-system-pada-sistem-operasi/</link>
+      <link>https://bayunashr.github.io/eton/posts/implementasi-file-system-pada-sistem-operasi/</link>
       <pubDate>Sat, 10 Sep 2022 13:43:32 +0700</pubDate>
       
-      <guid>localhost/posts/implementasi-file-system-pada-sistem-operasi/</guid>
+      <guid>https://bayunashr.github.io/eton/posts/implementasi-file-system-pada-sistem-operasi/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tempor lacus eu faucibus ullamcorper. Aenean nec gravida tellus. Aliquam interdum sem enim, placerat viverra ipsum dignissim sed.</description>
     </item>
     
     <item>
       <title>John Gorman, Kamikaze Tapi Tank</title>
-      <link>localhost/posts/john-gorman-kamikaze-tapi-tank/</link>
+      <link>https://bayunashr.github.io/eton/posts/john-gorman-kamikaze-tapi-tank/</link>
       <pubDate>Wed, 17 Aug 2022 14:25:29 +0700</pubDate>
       
-      <guid>localhost/posts/john-gorman-kamikaze-tapi-tank/</guid>
+      <guid>https://bayunashr.github.io/eton/posts/john-gorman-kamikaze-tapi-tank/</guid>
       <description>Orang mana yang kepikiran untuk mengalahkan Königstiger dengan cara ditabrak? Yap, John Gorman memikirkannya.</description>
     </item>
     
