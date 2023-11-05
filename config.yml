@@ -62,13 +62,13 @@ params:
   homeInfoParams:
     Title: Selamat Datang di "Eton"
     Content: >
-          - Blog ecek-ecek untuk saya nulis.
+      - Blog ecek-ecek untuk saya nulis.
 
-          - Yang baca gabut.
+      - Yang baca gabut.
 
-          - Yang nulis juga gabut.
+      - Yang nulis juga gabut.
 
-          - Selamat menggabut.
+      - Selamat menggabut.
 
   socialIcons:
     - name: github
@@ -130,7 +130,7 @@ markup:
     # style: monokai
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
