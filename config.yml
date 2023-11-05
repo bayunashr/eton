@@ -55,7 +55,7 @@ params:
 
   label:
     text: "Beranda"
-    icon: https://raw.githubusercontent.com/bayunashr/eton/main/assets/favicon/apple-icon-180x180.png
+    # icon: https://raw.githubusercontent.com/bayunashr/eton/main/assets/favicon/apple-icon-180x180.png
     iconHeight: 35
 
   # home-info mode
