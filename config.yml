@@ -21,7 +21,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Eton
   description: "Tempat orang-orang gabut baca tulisan gabut"
-  keywords: [Blog, Sejarah, Mitologi, Misteri]
+  keywords: [Blog, Sejarah, Mitologi, Edukasi]
   author: Bayu Nashrullah
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2 January 2006"
